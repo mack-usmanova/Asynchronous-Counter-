@@ -25,30 +25,6 @@ Asynchronous sequential counter (modified SN7490A-style) in VHDL with critical r
 
 ---
 
-## Suggested folder layout
-
-```
-.
-├─ src/
-│  └─ mod6.vhd
-├─ sim/
-│  └─ mod6_forces.tcl
-├─ constraints/
-│  └─ mod6.xdc
-├─ assets/
-│  ├─ race_free_assignment_and_state_table.png
-│  ├─ kmaps_and_postroute_sim.png
-│  ├─ breadboard_schematic_and_project_summary.png
-│  ├─ hardware_r5_and_r0_priority.png
-│  ├─ hardware_state_a_and_c.png
-│  ├─ hardware_state_e_and_f.png
-│  ├─ hardware_state_g_and_i.png
-│  ├─ oscilloscope_bounce_issue.png
-│  ├─ appendix_vhdl.png
-│  └─ appendix_tcl_xdc.png
-└─ report/
-   └─ ECE 4525 Lab 11.pdf
-```
 
 ---
 
